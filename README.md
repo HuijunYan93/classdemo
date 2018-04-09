@@ -8,15 +8,9 @@ changes made in demo_branch
 
 more text
 
-<<<<<<< HEAD
 # Headline 2
 $$ && ?? @@@
 
 # Headline number 3
  
 that's all folks
-=======
-# Headline number 3
- 
-that's all folks
->>>>>>> master
